@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="27251" started-at="2019-08-09T04:59:16Z" finished-at="2019-08-09T04:59:43Z">
+    <groups>
+    </groups>
+    <test name="com.qa.tests" duration-ms="27251" started-at="2019-08-09T04:59:16Z" finished-at="2019-08-09T04:59:43Z">
+      <class name="com.qa.tests.OrangeHRM_Functionality">
+        <test-method status="PASS" signature="browserlaunch()[pri:0, instance:com.qa.tests.OrangeHRM_Functionality@548b7f67]" name="browserlaunch" is-config="true" duration-ms="10288" started-at="2019-08-09T10:29:16Z" finished-at="2019-08-09T10:29:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method status="PASS" signature="pagetitleverify()[pri:0, instance:com.qa.tests.OrangeHRM_Functionality@548b7f67]" name="pagetitleverify" duration-ms="2047" started-at="2019-08-09T10:29:26Z" finished-at="2019-08-09T10:29:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pagetitleverify -->
+        <test-method status="PASS" signature="quitbrowser()[pri:0, instance:com.qa.tests.OrangeHRM_Functionality@548b7f67]" name="quitbrowser" is-config="true" duration-ms="778" started-at="2019-08-09T10:29:28Z" finished-at="2019-08-09T10:29:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitbrowser -->
+        <test-method status="PASS" signature="browserlaunch()[pri:0, instance:com.qa.tests.OrangeHRM_Functionality@548b7f67]" name="browserlaunch" is-config="true" duration-ms="9041" started-at="2019-08-09T10:29:29Z" finished-at="2019-08-09T10:29:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method status="PASS" signature="verifylogin()[pri:0, instance:com.qa.tests.OrangeHRM_Functionality@548b7f67]" name="verifylogin" duration-ms="4410" started-at="2019-08-09T10:29:38Z" finished-at="2019-08-09T10:29:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method status="PASS" signature="quitbrowser()[pri:0, instance:com.qa.tests.OrangeHRM_Functionality@548b7f67]" name="quitbrowser" is-config="true" duration-ms="671" started-at="2019-08-09T10:29:42Z" finished-at="2019-08-09T10:29:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitbrowser -->
+      </class> <!-- com.qa.tests.OrangeHRM_Functionality -->
+    </test> <!-- com.qa.tests -->
+  </suite> <!-- Suite -->
+</testng-results>

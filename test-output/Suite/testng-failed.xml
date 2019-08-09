@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="com.qa.tests(failed)">
+    <classes>
+      <class name="com.qa.tests.OrangeHRM_Functionality">
+        <methods>
+          <include name="pagetitleverify"/>
+          <include name="browserlaunch"/>
+          <include name="verifylogin"/>
+        </methods>
+      </class> <!-- com.qa.tests.OrangeHRM_Functionality -->
+    </classes>
+  </test> <!-- com.qa.tests(failed) -->
+</suite> <!-- Failed suite [Suite] -->
